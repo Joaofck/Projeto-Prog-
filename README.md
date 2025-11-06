@@ -4,7 +4,7 @@
 
 # Jogo T-Rex
 
-## O jogo T-Rex é um jogo eletrônico simples e popular, originalmente desenvolvido pelo Google para o navegador Chrome. O domínio do problema envolve o controle de um personagem principal, um dinossauro T-Rex, que corre automaticamente em um cenário desértico. O jogador deve evitar obstáculos — como cactos e pássaros voadores — realizando saltos ou abaixando-se no momento certo.
+## O jogo T-Rex é um jogo eletrônico simples e popular, originalmente desenvolvido pelo Google para o navegador Chrome.
 
 > Repositório destinado para o desenvolvimento do projeto final da disciplina 
 > PRG22107 - Programação orientada objeto. 
