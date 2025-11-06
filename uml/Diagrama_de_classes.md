@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/23395373/Diagrama.clases.html)
+<img src="(https://github.com/user-attachments/files/23395373/Diagrama.clases.html)"
 
 
 
