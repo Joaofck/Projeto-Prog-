@@ -1,5 +1,3 @@
-<img src="(Diagrama clases.html)"
-
 
 
 [Diagrama clases.html](https://github.com/user-attachments/files/23395373/Diagrama.clases.html)
