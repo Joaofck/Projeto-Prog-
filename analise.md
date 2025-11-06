@@ -1,0 +1,36 @@
+# Análise orientada a objeto
+> [!NOTE]
+> <p>A <strong>análise</strong> orientada a objeto consiste na descrição do 
+> problema a ser tratado, duas primeiras etapas da tabela abaixo, a definição de 
+> casos de uso e a definição do domínio do problema.</p>
+
+## Descrição Geral do domínio do problema
+
+Descrever de forma geral o domínio do problema.
+
+Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
+
+## Diagrama de Casos de Uso
+
+Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
+
+<div align="center">
+    <img src="img/use_case.svg">
+</div>
+
+### Detalhamento dos casos de uso
+
+[UC01: Jogar](uc01.md)
+
+[UC02: Encerrar](uc02.md)
+ 
+## Diagrama de Domínio do problema
+
+Elaborar um diagrama conceitual do domínio do problema.
+
+
+<div align="center">
+
+[Retroceder](README.md) | [Avançar](projeto.md)
+
+</div>

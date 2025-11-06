@@ -1,0 +1,14 @@
+@startuml
+left to right direction
+
+actor Player as user
+
+rectangle "Hangman" {
+    usecase "UC02: Encerrar " as uc2
+    usecase "UC01: Jogar" as uc1
+}
+
+user -- uc1
+user -- uc2
+
+@enduml
