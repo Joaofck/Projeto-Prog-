@@ -1,3 +1,6 @@
+<img src="[ifsc-logo.png](https://github.com/user-attachments/files/23395373/Diagrama.clases.html)"
+
+
 
 [Diagrama clases.html](https://github.com/user-attachments/files/23395373/Diagrama.clases.html)
 <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
