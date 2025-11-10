@@ -5,8 +5,7 @@
  O domínio do problema envolve o controle de um personagem principal, um dinossauro T-Rex, que corre automaticamente em um cenário desértico. O jogador deve evitar obstáculos — como cactos e pássaros voadores — realizando saltos ou abaixando-se no momento certo.
 
 ## Diagrama Casos de Uso
-
-<img width="708" height="597" alt="CasosdeUso" src="https://github.com/user-attachments/assets/71d6236a-b8e4-433a-8378-84d908d85f47" />
+<img width="424" height="466" alt="Capturar" src="https://github.com/user-attachments/assets/c45550c7-3a63-465e-b8b3-7ccd23c7d815" />
  
 ## Diagrama de Classes
 
