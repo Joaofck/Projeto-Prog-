@@ -1,7 +1,0 @@
-{
-    "plantuml.exportFormat": "svg",
-    "plantuml.exportIncludeFolderHeirarchy": true,
-    "plantuml.diagramsRoot": "uml",
-    "plantuml.exportOutDir": "img",
-    "plantuml.exportSubFolder": false
-}
