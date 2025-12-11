@@ -1,0 +1,10 @@
+debug/cactus.o
+debug/dinasor.o
+debug/ground.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_resources.o
+debug/moc_cactus.o
+debug/moc_dinasor.o
+debug/moc_ground.o
+debug/moc_mainwindow.o
