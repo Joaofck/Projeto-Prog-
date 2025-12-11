@@ -15,6 +15,5 @@
 <p align=center><strong>SUMÁRIO</strong></p>
 
 [**1. ANÁLISE ORIENTADA A OBJETO**](./analise.md)<br>
-[**2. PROJETO ORIENTADO A OBJETO**](./projeto.md)<br>
-[**3. IMPLEMENTAÇÃO (C++)**](./implementacao.md)<br>
-[**4. TESTES**](./testes.md)<br>
+[**2. IMPLEMENTAÇÃO (C++)**](./implementacao.md)<br>
+[**3. TESTES**](./testes.md)<br>
