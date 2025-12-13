@@ -8,17 +8,17 @@
 <img width="424" height="466" alt="Capturar" src="https://github.com/user-attachments/assets/c45550c7-3a63-465e-b8b3-7ccd23c7d815" />
 
 **Iniciar Jogo**
-Descrição: Ação inicial que coloca o sistema em funcionamento
+Ação inicial que coloca o sistema em funcionamento
 Configura ambiente inicial, pontuação zerada, estado "pronto para jogar"
 
 **Pular**
-Descrição: Comando do jogador para fazer o personagem saltar obstáculos
+Comando do jogador para fazer o personagem saltar obstáculos
 
 **Agachar**
-Descrição: Ação para evitar obstáculos altos (não implementada no código)
+Ação para evitar obstáculos altos (não implementada no código)
 
 **Reiniciar Jogo**
-Descrição: Recomeça o jogo após game over
+Recomeça o jogo após game over
 Reseta pontuação, velocidade, remove obstáculos, recria elementos iniciais
 
 <div align="center">
