@@ -21,6 +21,8 @@ Descrição: Ação para evitar obstáculos altos (não implementada no código)
 Descrição: Recomeça o jogo após game over
 Reseta pontuação, velocidade, remove obstáculos, recria elementos iniciais
 
-## Diagrama de Classes
+<div align="center">
 
-<img width="581" height="385" alt="Classe" src="https://github.com/user-attachments/assets/b4f17e03-adea-4b66-bbd3-fe7041c57256" />
+[Retroceder](README.md) | [Avançar](projeto.md)
+
+</div>
