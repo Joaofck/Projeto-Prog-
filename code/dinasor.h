@@ -12,7 +12,7 @@ class Dinasor : public QObject , public QGraphicsPixmapItem
     Q_OBJECT
 public:
     Dinasor();
-    QList<QPixmap> Frame; // Lista para armazenar os frames de animação quando implementadop
+    QList<QPixmap> Frame;
     QString situation; // Estado atual "Stable" (parado) "Up" (subindo) "Down" (descendo)
     void reset();
     void set_walking(bool TF){
@@ -30,3 +30,4 @@ private:
 };
 
 #endif // DINASOR_H
+
